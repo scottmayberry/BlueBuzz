@@ -1,2 +1,2 @@
 # BlueBuzz
-SPDX-License-Identifier: MIT OR CERN-OHL-v2-Permissive
+SPDX-License-Identifier: MIT OR CERN-OHL-P-2.0
